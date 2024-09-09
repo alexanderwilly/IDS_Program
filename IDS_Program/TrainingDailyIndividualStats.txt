@@ -1,0 +1,35 @@
+Day 1
+Login: 2.13
+Time online: 1.62
+Emails sent: 0.91
+Emails opened: 0.80
+Emails deleted: 1.55
+
+Day 2
+Login: 0.53
+Time online: 1.81
+Emails sent: 0.49
+Emails opened: 0.31
+Emails deleted: 0.39
+
+Day 3
+Login: 2.13
+Time online: 1.59
+Emails sent: 1.25
+Emails opened: 1.24
+Emails deleted: 2.52
+
+Day 4
+Login: 3.20
+Time online: 1.30
+Emails sent: 1.53
+Emails opened: 1.64
+Emails deleted: 3.30
+
+Day 5
+Login: 0.53
+Time online: 3.14
+Emails sent: 0.14
+Emails opened: 0.09
+Emails deleted: 0.39
+

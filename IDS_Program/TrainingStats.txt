@@ -1,0 +1,7 @@
+Event           Mean     StDev    Min      Max      Weight
+---------------------------------------------------------------
+Login           D        4.00     1.50     0        0        2
+Time online     C        150.50   25.00    0        1440     2
+Emails sent     D        10.00    3.00     0        0        1
+Emails opened   D        12.00    4.50     0        0        1
+Emails deleted  D        7.00     2.25     0        0        2

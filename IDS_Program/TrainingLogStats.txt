@@ -1,0 +1,35 @@
+Login
+Day 1      | 5
+Day 2      | 3
+Day 3      | 5
+Day 4      | 1
+Day 5      | 3
+
+Time online
+Day 1      | 170.70
+Day 2      | 173.18
+Day 3      | 130.57
+Day 4      | 166.80
+Day 5      | 111.26
+
+Emails sent
+Day 1      | 12
+Day 2      | 8
+Day 3      | 13
+Day 4      | 5
+Day 5      | 9
+
+Emails opened
+Day 1      | 15
+Day 2      | 10
+Day 3      | 17
+Day 4      | 4
+Day 5      | 11
+
+Emails deleted
+Day 1      | 8
+Day 2      | 6
+Day 3      | 9
+Day 4      | 3
+Day 5      | 6
+
