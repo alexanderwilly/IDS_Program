@@ -1,5 +1,3 @@
-Alexander Willy Johan - 7907795 - A3 - CSCI262
-
 My files are consists of
 - IDS.java (Main Driver)
 - FileIO.java
